@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=City
+comment1.params=n
+comment1.target=City(java.lang.String)
+comment2.params=v
+comment2.target=int\ compareTo(City)
+comment2.text=\n\ An\ method\ that\ overrides\ the\ compareTo\ method\n
+comment3.params=
+comment3.target=Warehouse\ getWarehouse()
+comment3.text=\n\ A\ method\ that\ gets\ the\ warehouse\ in\ a\ city\n\ @return\ the\ warehouse\ placed\ in\ the\ city\n
+comment4.params=wh
+comment4.target=void\ setWarehouse(Warehouse)
+comment4.text=\n\ A\ method\ that\ sets\ up\ the\ warehouse\ in\ a\ city\n\ @param\ \ wh\ \ the\ warehouse\ to\ be\ placed\ in\ the\ city\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\n\ A\ method\ that\ gets\ the\ name\ of\ the\ city\n\ @return\ name\ of\ the\ city\n
+numComments=6
